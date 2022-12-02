@@ -28,5 +28,5 @@ Username : Noob:)
 - Catboost was used as predictive model and was hypertuned
 
 
-As a result I secured #1st Position in this competition 
+## As a result I secured 1st Position in this competition 
 
