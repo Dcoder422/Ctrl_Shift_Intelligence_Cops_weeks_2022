@@ -15,6 +15,7 @@ the Machine Learning event of COPS Week 2022,
 ## 🔗 Links
 [kaggle competion link here](https://www.kaggle.com/competitions/ctrl-shift-intelligence-2k22/overview)
 
+Username : Noob:)
 
 ## Techniques Used
 
